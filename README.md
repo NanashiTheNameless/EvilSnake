@@ -1,3 +1,3 @@
 # EvilPong
 
-open "https://CortezJEL.github.io/EvilPong/"
+open "https://CortezJEL.github.io/EvilSnake/"
