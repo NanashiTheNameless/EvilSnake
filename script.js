@@ -52,7 +52,7 @@ Component.Stage = function(canvas, conf) {
   this.conf      = {
     cw   : 10,
     size : 5,
-    fps  : 1000
+    fps  : 75
   };
   
   // Merge Conf
