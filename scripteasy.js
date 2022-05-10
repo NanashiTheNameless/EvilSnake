@@ -11,8 +11,8 @@ var Component = Component || {};
 Keyboard.Keymap = {
   65: 'left',
   87: 'up',
-  83: 'right',
-  87: 'down'
+  68: 'right',
+  83: 'down'
 };
 
 function changeBackground(color) {
