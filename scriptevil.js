@@ -10,9 +10,9 @@ var Component = Component || {};
  */
 Keyboard.Keymap = {
   76: 'left',
-  66: 'up',
+  89: 'up',
   65: 'right',
-  89: 'down'
+  66: 'down'
 };
 
 function changeBackground(color) {
@@ -150,10 +150,10 @@ Game.Draw = function(context, snake) {
         nx--;
         break;
       case 'up':
-        ny++;
+        ny--;
         break;
       case 'down':
-        ny--;
+        ny++;
         break;
     }
     
