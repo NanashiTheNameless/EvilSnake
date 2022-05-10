@@ -9,10 +9,10 @@ var Component = Component || {};
  * Keyboard Map
  */
 Keyboard.Keymap = {
-  83: 'left',
-  65: 'up',
-  90: 'right',
-  87: 'down'
+  76: 'left',
+  66: 'up',
+  65: 'right',
+  89: 'down'
 };
 
 function changeBackground(color) {
