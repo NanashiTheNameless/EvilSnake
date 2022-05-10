@@ -150,10 +150,10 @@ Game.Draw = function(context, snake) {
         nx--;
         break;
       case 'up':
-        ny--;
+        ny++;
         break;
       case 'down':
-        ny++;
+        ny--;
         break;
     }
     
